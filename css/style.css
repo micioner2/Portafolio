@@ -365,15 +365,17 @@ header .line {
   flex-direction: row; }
 
 .sect-contact {
-  padding: 20px; }
+  padding: 20px; 
+}
 
 .sect-contact .content-social-contact .social-contact .contact-content {
   margin: 10px auto;
-  width: 520px;
+  width: auto;
   padding: 20px;
   border-left: 4px solid #34495e;
   border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px; }
+  border-bottom-left-radius: 5px; 
+}
 
 .sect-contact .content-social-contact .social-contact .contact-content ul {
   list-style: none; }
@@ -386,12 +388,12 @@ header .line {
   display: block;
   color: #353b48;
   transition: all .2s ease; }
-  .sect-contact .content-social-contact .social-contact .contact-content ul li a i {
+  .sect-contact .content-social-contact .social-contact .contact-content  ul li a i {
     font-size: 20px;
     padding-right: 10px; }
 
 .sect-contact .content-social-contact .social-contact .contact-content ul li a:hover {
-  color: #ff7f50;
+  color: #FF3355;
   font-size: 15px; }
 
 footer {
